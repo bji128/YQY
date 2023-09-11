@@ -1,5 +1,5 @@
 ---
-title: 联系我们
+title: 联系方式
 layout: contact
 description: 联系我们
 ---
