@@ -1,11 +1,15 @@
 ---
-title: "Sage Kirk"
+title: "Sofronie Wang"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "财务总监"
+linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 2
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+- 财务规划：制定企业的财务发展战略和目标，编制年度财务预算，根据企业战略和市场情况，制定财务策略，保证企业的财务目标的实现。
+- 资金管理：负责企业资金的筹集、调度和使用，包括预测企业的资金需求，建立资金管理体系，制定资金运作政策和程序，进行资金风险的预测和控制。
+- 税务管理：负责企业的税务申报工作，熟悉税法法规，确保企业依法缴纳各种税款，并与税务机关保持良好的沟通。
+- 成本控制：负责企业的成本控制工作，包括制定成本控制标准和流程，监控成本变动情况，提出降低成本的措施和建议，为企业提高盈利能力。
+- 内部控制：建立和完善企业的内部控制制度，确保财务业务的合规性和准确性，制定审计计划，进行内部审计工作，发现和纠正财务管理中的问题。
+- 资产管理：负责企业的资产管理工作，包括资产的采购、使用和处置，确保资产的安全和有效利用，降低资产损耗风险
