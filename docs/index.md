@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# 颜去页 - 一个专业的IT合作伙伴
+# 颜去页 - 您的专业IT伙伴
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+提供数据安全和备份解决方案、IT基础设施管理、软件开发和定制、IT咨询和教育、系统集成与优化，以及技术支持和维护服务等
