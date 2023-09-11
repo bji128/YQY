@@ -1,13 +1,18 @@
 ---
-title: "Peter Van Eijk"
+title: "Brandon 金虎"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "总经理"
+linkedinurl: "https://www.linkedin.com/in/bji129"
 promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- 制定公司的战略规划和发展方向，确保公司的长期可持续发展。
+- 领导和管理公司的日常运营，监督各部门的工作表现和业绩。
+- 负责与员工、客户、合作伙伴和股东进行沟通和协商，建立和维护良好的关系。
+- 确保公司的财务稳定和盈利能力，负责预算制定和控制成本。
+- 招聘、培训、指导和评估员工，提高团队的工作效率和绩效。
+- 研究市场趋势和竞争对手，制定相应的市场营销策略和销售计划。
+- 管理公司的风险和应对危机，保护公司的声誉和利益。
+- 确保公司遵守法律法规和商业伦理，推动公司的社会责任。
